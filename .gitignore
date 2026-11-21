@@ -1,0 +1,15 @@
+# Dependências (podem ser reinstaladas com npm install)
+node_modules/
+
+# Banco de Dados local (gerado em execução, não deve subir com dados de teste)
+*.db
+carcheck.db
+
+# Arquivos de sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Variáveis de ambiente (se você criar alguma no futuro)
+.env
